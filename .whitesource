@@ -1,5 +1,5 @@
 {
-  "settingsInheritedFrom": "backend-gheproxy/whitesource-config@main",
+  "settingsInheritedFrom": "tabacmend-gheproxy/whitesource-config@main",
     "remediateSettings": {
         "workflowRules": {
             "enabled": false
